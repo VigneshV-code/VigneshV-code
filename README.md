@@ -1,6 +1,7 @@
 ### Hi, I'm Vignesh 👋
 🔍 Data Analyst Skilled in SQL, Excel and Power BI for cleaning, analyzing, and visualizing data to solve business problems & to turn raw data into decisions that businesses can act on. 
- -----------------------------------------------------------
+
+-----------------------------------------
 ### 🛠️ Skills & Tools :-
 
 SQL : Aggregation & Filtering, Joins, Window Functions, Subquery,Case Statement, CTE, Views

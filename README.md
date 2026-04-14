@@ -16,7 +16,7 @@
 
 📊 Check out my featured project → [Olist E-Commerce Analytics](https://github.com/VigneshV-code/Olist-Ecommerce-Analysis)
 
-------------------------------------------------------------
+---------------------------------------------------
 
 #### Connect With Me :-
 

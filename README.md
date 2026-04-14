@@ -12,15 +12,15 @@
 
 -------------------------------------------------
 
-### PROJECTS :-
+### Projects :-
 
 📊 Check out my featured project → [Olist E-Commerce Analytics](https://github.com/VigneshV-code/Olist-Ecommerce-Analysis)
 
 ------------------------------------------------------------
 
-####  Connect With Me
+#### Connect With Me
 
-📬 Open to Junior Data Analyst, MIS Analyst & Business Analyst roles
+📬 Open to Data Analyst, MIS Analyst & Business Analyst roles
 
 🔗 LinkedIn : [LinkedIn](https://www.linkedin.com/in/vignesh-v-8a5752290)
 

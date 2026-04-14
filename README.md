@@ -10,7 +10,25 @@
 
 **Power BI** : Data Modeling, DAX, Build Business Reports
 
+-------------------------------------------------
+
+### PROJECTS :-
+
 📊 Check out my featured project → [Olist E-Commerce Analytics](https://github.com/VigneshV-code/Olist-Ecommerce-Analysis)
 
+------------------------------------------------------------
+
+####  Connect With Me
+
 📬 Open to Junior Data Analyst, MIS Analyst & Business Analyst roles
-🔗 [LinkedIn](https://www.linkedin.com/in/vignesh-v-8a5752290)
+
+🔗 LinkedIn : [LinkedIn](https://www.linkedin.com/in/vignesh-v-8a5752290)
+
+📁 Project Portfolio : View Portfolio
+
+📩 Gmail : vickyda999@gmail.com
+
+📞 Phone : 7708643128
+
+
+

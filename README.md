@@ -1,5 +1,5 @@
 ### Hi, I'm Vignesh 👋
-Junior Data Analyst · SQL · Power BI · Excel
+ Data Analyst · SQL · Power BI · Excel
 
 🔍 I turn raw data into decisions that businesses can act on.
 

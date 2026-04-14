@@ -18,13 +18,11 @@
 
 ------------------------------------------------------------
 
-#### Connect With Me
+#### Connect With Me :-
 
 📬 Open to Data Analyst, MIS Analyst & Business Analyst roles
 
 🔗 LinkedIn : [LinkedIn](https://www.linkedin.com/in/vignesh-v-8a5752290)
-
-📁 Project Portfolio : View Portfolio
 
 📩 Gmail : vickyda999@gmail.com
 
